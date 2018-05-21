@@ -1,0 +1,56 @@
+page-fram-detail {
+
+	.prodView {
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    .prod-Slide {
+      height: 50%;
+      .slide-zoom {
+        height: 100%;
+        img {
+          height: inherit;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+        }
+        .price-tag {
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 1;
+          color: #eee;
+          font-size: 2em;
+          width: 1.75em;
+          a {
+            font-size: large;
+            text-align: center;
+            color: map-get($colors, myFont);
+          }
+          &:after {
+            content: "";
+            font-size: 0.5em;
+            position: absolute;
+            height: 2.2em;
+            border: 1.55em solid map-get($colors, secondary);
+            z-index: -1;
+            top: -1em;
+            border-top-width: 2em;
+            border-bottom-color: transparent;
+            left: 0;
+          }
+        }
+      }
+    }
+    .menu-button{
+    margin-top:1em;
+    background-color:#FFF; //ขอบ
+    width: 90%;
+    color: $text-color;
+    margin: 0 auto;
+    border-radius:0.5em;
+    margin-top:0.9em;
+    padding:0.8em;
+    box-shadow: 5px 5px grey;
+  }
+   }
+}

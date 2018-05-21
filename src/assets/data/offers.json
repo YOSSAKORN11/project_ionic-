@@ -1,0 +1,58 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "prod_id": 12,
+      "image": "assets/img/products/tiffin2.jpg",
+      "veg": "1",
+      "title": "Buy 1 Get 1",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua.",
+      "coupon": "AA1111"
+    },
+    {
+      "id": 2,
+      "prod_id": 13,
+      "image": "assets/img/products/roti1.jpg",
+      "veg": "1",
+      "title": "50% off",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua. Ut enim ad minim",
+      "coupon": "AA1112"
+    },
+    {
+      "id": 3,
+      "prod_id": 24,
+      "image": "assets/img/products/bread2.jpg",
+      "veg": "2",
+      "title": "Get Free Drink",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua. Ut enim ad mini",
+      "coupon": "AA1113"
+    },
+    {
+      "id": 4,
+      "prod_id": 35,
+      "image": "assets/img/products/sweet1.jpg",
+      "veg": "1",
+      "title": "20% off",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "coupon": "AA1114"
+    },
+    {
+      "id": 5,
+      "prod_id": 86,
+      "image": "assets/img/products/pizza2.jpg",
+      "veg": "2",
+      "title": "Buy and Get 20% off",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua. ",
+      "coupon": "AA1115"
+    },
+    {
+      "id": 6,
+      "prod_id": 114,
+      "image": "assets/img/products/cake2.jpg",
+      "veg": "1",
+      "title": "Buy and Get 20% off",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incprod_idprod_idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "coupon": "AA1116"
+    }
+  ]
+}

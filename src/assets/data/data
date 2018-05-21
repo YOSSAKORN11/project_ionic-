@@ -1,0 +1,27 @@
+    Submenu.json
+
+          id    :   Individual id for submenu
+          typeId:   Id mapping submenu.json and menu.json  (submenu.typeId == menu.id)
+          image :   Image for Submenu
+          icon  :   Icon for Submenu
+          title :   Submenu Name
+          noOfItems: No of items in the submenu
+
+
+
+    products.json
+
+      id        : Individual id for the product
+      typeId    : Id mapping products.json and submenu.json  (products.typeId == submenu.id)
+      image     : Image of product
+      veg       : Set 1 to Veg, 2 to Non-Veg
+      indicator : "img/indicator/veg.jpg" to Veg, "img/indicator/non-veg.jpg" to Non-veg
+      title     : Name of the product
+      price     : Product price
+      desc      : Product description
+      images    : Two images for same product.            {
+          title: Product Images
+      add_ons   : Add-ons for product. Include if required. Eg: Check product Burger or Pizza in products.json
+          add_ons_name  : Name of the add-on
+          add_ons_price : Price of the add-on
+          checked       : Should be false always.

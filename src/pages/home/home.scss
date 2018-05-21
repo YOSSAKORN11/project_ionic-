@@ -1,3 +1,106 @@
 page-home {
+	.cart-badge {
+    position: absolute;
+    top: -0.5rem;
+    right: 1rem;
+    background: black;
+    color: white;
+    opacity: 0.8;
+    border-radius: 50%;
+  }
 
+  .addToCart {
+    position: absolute;
+    top: -0.5rem;
+    right: 1rem;
+    background: black;
+    color: white;
+    opacity: 0.8;
+    border-radius: 50%;
+    animation: addingToCart 0.5s;
+  }
+
+  @keyframes addingToCart {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      top: -0.3rem;
+    }
+    100% {
+      opacity: 1;
+      top: -0.5rem
+    }
+  }
+
+  .favourite {
+   background-image: linear-gradient(to right, #434343 0%, black 100%);
+    .newclass {
+      .favRow {
+        flex-wrap: wrap
+      }
+      .favCol {
+        position: relative;
+        padding: 5px 5px 0 5px;
+        max-width: 50%;
+        flex: 0 0 50%;
+        img {
+          padding-right: 0;
+          border: thin solid lightgrey;
+          height: 11em;
+        }
+        .newContents {
+          position: absolute;
+          bottom: 3px;
+          background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+          opacity: 0.85;
+          width: 94.5%;
+          padding-left: 5px;
+          left: 5px;
+          .prod-title, .prod-price {
+            width: 100%;
+            // color: map-get($colors, myFont);
+            font-weight: bold;
+            white-space: nowrap;
+            overflow-y: hidden;
+            text-overflow: ellipsis;
+          }
+          .prod-price {
+            margin: 0.5em 0 0.25em;
+          }
+          ion-col {
+            padding: 0;
+            overflow-y: hidden;
+            text-overflow: ellipsis;
+            .cart-icon {
+              padding: 0;
+              color: map-get($colors, myFont);
+            }
+          }
+        }
+
+        @media screen and (orientation: portrait) and (min-width: 700px) {
+          max-width: 33%;
+          flex: 0 0 33%;
+        }
+        @media screen and (orientation: portrait) and (min-width: 1000px) {
+          max-width: 25%;
+          flex: 0 0 25%;
+        }
+        @media screen and (orientation: landscape) and (max-width: 1000px) {
+          max-width: 33%;
+          flex: 0 0 33%;
+        }
+        @media screen and (orientation: landscape) and (min-width: 1000px) {
+          max-width: 25%;
+          flex: 0 0 25%;
+        }
+        @media screen and (orientation: landscape) and (min-width: 1300px) {
+          max-width: 19%;
+          flex: 0 0 19%;
+        }
+      }
+    }
+  }
 }

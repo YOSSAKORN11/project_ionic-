@@ -1,14 +1,30 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-navbar>
+<!--
+  Generated template for the FirebasePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header> 
+   <ion-navbar color="ysk" text-center>
+    <ion-title>เลือกไร่</ion-title>
+  </ion-navbar>  
+   
+
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+
+<ion-content class="favourite">
+<ion-grid class="newclass">
+        <ion-row class="favRow">
+            <ion-col *ngFor="let prod of items | async" class="favCol">
+                <div>
+                    <img data-src="{{prod.image}}" (click)="openProduct(prod)"/>
+                    <div class="newContents">
+                    	<h5 class="prod-title" *ngIf="!prod.status" style="color:red;" text-center>{{prod.title}} </h5>
+                      <h5 class="prod-title" *ngIf="prod.status" style="color:green;" text-center>{{prod.title}} </h5>
+                    </div>
+                </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
 </ion-content>

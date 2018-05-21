@@ -1,0 +1,275 @@
+{
+  "fav_cart": [
+    
+    {
+      "id": 10,
+      "typeId": 1,
+      "image": "http://mediad.publicbroadcasting.net/p/ipr/files/styles/medium/public/201611/garden_pic.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "ไร้ 1",
+      "price": "xx",
+      "desc": "เครื่องปั้นดินเผาเวียงกาหลง เป็นเครื่องปั้นดินเผาภูมิปัญญาทางวัฒนธรรม ชนิดเขียนสีใต้เคลือบ สร้างสรรค์เป็นภาชนะเครื่องใช้ แบบต่างๆ การใช้เครื่องปั้นดินเผาบ่งบอกถึง รากฐานที่ยาวนานของวัฒนธรรมถิ่นกำเนิด ซึ่งหมายถึง การตั้งรกรากที่มั่นคงในแหล่งนั้นๆ จนสามารถ ตั้งแหล่งผลิตเครื่องปั้นดินเผาเพื่อใช้สอยในชีวิตประจำวันและงานประเพณี สะท้อนถึงอารยธรรมและความสำคัญของพื้นที่อันเป็นแหล่ง วัตถุดิบที่มีความพิเศษ กล่าว คือ มีดินขาวที่มีคุณภาพสูง เนื่องจากดินเวียงกาหลงสามารถนำมาทำเครื่องปั้น ดินเผาที่เป็นเอกลักษณ์ด้านความแข็งแกร่งและสามารถทนความร้อนได้ดี",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/Untitled-22.jpg"
+        },
+        {
+          "title": "assets/img/products/Untitled-22.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "typeId": 1,
+      "image": "http://mediad.publicbroadcasting.net/p/ipr/files/styles/medium/public/201611/garden_pic.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "ไร้ 2",
+      "price": "xx",
+      "desc": "เครื่องเคลือบดินเผาเวียงกาหลง มีกรรมวิธีพิเศษอันเป็นภูมิปัญญาและอัตลักษณ์เฉพาะ ที่สามารถผลิตเครื่องเคลือบที่บาง มีน้ำหนักเบา สามารถปรับรูปแบบของการเผาให้เครื่องเคลือบเมื่อผ่านการเผาแล้ว มีสีเหลือง หรือสีเขียว ซึ่งเป็นเอกลักษณ์ของเครื่องเคลือบเวียงกาหลงที่สืบทอดกันมาและชุมชนได้สืบทอดและอนุรักษ์ไว้",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/Untitled-33.jpg"
+        },
+        {
+          "title": "assets/img/products/Untitled-33.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "image": "http://mediad.publicbroadcasting.net/p/ipr/files/styles/medium/public/201611/garden_pic.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "ไร้ 3",
+      "price": "xx",
+      "desc": "เครื่องเคลือบดินเผาเวียงกาหลงเป็นผลิตภัณฑ์ที่มีเอกลักษณ์มีเรื่องราว อันเป็นผลงานที่แฝงไว้ด้วยเรื่องราวแห่งพุทธศาสนา ตำนานพื้นเมือง ถูกถ่ายทอดผ่านปลายฝีพู่กันลงบนชิ้นงานที่มีความประณีตและฝังจิตวิญญานวัฒนธรรมดั่งเดิม โดยผ่านลวดลายโบราณที่สืบทอดกันมาผสมกับลายประยุกต์ร่วมสมัย ซึ่งมีความสวยงามผ่านกาลเวลาจากอดีตถึงปัจจุบัน",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/Untitled-44.jpg"
+        },
+        {
+          "title": "assets/img/products/Untitled-44.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "image": "http://mediad.publicbroadcasting.net/p/ipr/files/styles/medium/public/201611/garden_pic.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "ไร้ 4",
+      "price": "xx",
+      "desc": "ความพิเศษของเครื่องปั้นดินเผาเวียงกาหลงนอกจาก มีเนื้อดินที่ขาวแล้ว ยังมีลวดลาย ที่เกิดจากการเขียนด้วยสีใต้เคลือบเป็นสีดำ ซึ่งเป็นสีที่ได้จากวัตถุดิบเฉพาะในท้องถิ่น ประกอบด้วยลวดลายหลากหลาย ลวดลายพิเศษที่เป็นที่รู้จักกันเป็นที่แพร่หลายคือ “รูปตัวกา” บินมา รวมกัน หรือเป็นรูปดอกไม้บ่งบอกถึงความ อุดมสมบูรณ์ของท้องถิ่น",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/Untitled-66.jpg"
+        },
+        {
+          "title": "assets/img/products/Untitled-66.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "image": "http://mediad.publicbroadcasting.net/p/ipr/files/styles/medium/public/201611/garden_pic.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "ไร้ 5",
+      "price": "xx",
+      "desc": "งานดินปั้นลอยตัวใช้เทคนิคการผลิตที่แตกต่างจากเครื่องเคลือบชนิดอื่นๆ ทำการขึ้นรูปด้วยการปั้นดินส่วนใหญ่เป็นงานปั้นสัตว์ในวรรณคดี อาทิ ม้าและสิงห์ อันแสดงถึงจินตนาการและหลักธรรมที่ผสานกันอย่างลงตัว",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/Untitled-77.jpg"
+        },
+        {
+          "title": "assets/img/products/Untitled-77.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "typeId": 2,
+      "image": "assets/img/products/1.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "มีด แบบที่ 1",
+      "price": "xx",
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/1.jpg"
+        },
+        {
+          "title": "assets/img/products/1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "typeId": 2,
+      "image": "assets/img/products/2.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "มีด แบบที่ 2",
+      "price": "xx",
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/2.jpg"
+        },
+        {
+          "title": "assets/img/products/2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "typeId": 2,
+      "image": "assets/img/products/3.jpg",
+      "veg": "2",
+      "indicator": "assets/img/indicator/non-veg.jpg",
+      "title": "มีด แบบที่ 3",
+      "price": "xx",
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/3.jpg"
+        },
+        {
+          "title": "assets/img/products/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "typeId": 2,
+      "image": "assets/img/products/4.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "มีด แบบที่ 4",
+      "price": "xx",
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/4.jpg"
+        },
+        {
+          "title": "assets/img/products/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "typeId": 2,
+      "image": "assets/img/products/5.jpg",
+      "veg": "2",
+      "indicator": "assets/img/indicator/non-veg.jpg",
+      "title": "มีด แบบที่ 5",
+      "price": "xx",
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/5.jpg"
+        },
+        {
+          "title": "assets/img/products/5.jpg"
+        }]
+    },
+    {
+      "add_ons": [
+        {
+          "add_ons_name": "onion",
+          "add_ons_price": 20,
+          "checked":false
+        },
+        {
+          "add_ons_name": "cheese",
+          "add_ons_price": 50,
+          "checked":false
+        },
+        {
+          "add_ons_name": "tomato",
+          "add_ons_price": 15,
+          "checked":false
+        },
+        {
+          "add_ons_name": "sauce-dip",
+          "add_ons_price": 40,
+          "checked":false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "typeId": 19,
+      "image": "assets/img/products/cake2.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "Chocolate Cake",
+      "price": 13,
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/cake2.jpg"
+        },
+        {
+          "title": "assets/img/products/cake2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "typeId": 23,
+      "image": "assets/img/products/ice2.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "Choco Vanilla Ice Cream",
+      "price": 17,
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/ice2.jpg"
+        },
+        {
+          "title": "assets/img/products/ice2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "typeId": 24,
+      "image": "assets/img/products/beverage2.jpg",
+      "veg": "1",
+      "indicator": "assets/img/indicator/veg.jpg",
+      "title": "Hot Chocolate",
+      "price": 13,
+      "desc": "Prune pits, peach pits, orange peels, Gloppy glumps of cold oatmeal, Pizza crusts and withered greens, Soggy beans, and tangerines, Crusts of black-burned buttered toast, Grisly bits of beefy roast. The garbage rolled on down the halls, It raised the roof, it broke the walls, I mean, greasy napkins, cookie crumbs, Blobs of gooey bubble gum, Cellophane from old bologna, Rubbery, blubbery macaroni, Peanut butter, caked and dry, Curdled milk, and crusts of pie, Rotting melons, dried-up mustard, Eggshells mixed with lemon custard, Cold French fries and rancid meat, Yellow lumps of Cream of Wheat",
+      "qty":1,
+      "images": [
+        {
+          "title": "assets/img/products/beverage2.jpg"
+        },
+        {
+          "title": "assets/img/products/beverage2.jpg"
+        }
+      ]
+    }
+  ]
+}

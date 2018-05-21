@@ -1,0 +1,57 @@
+{
+  "banners": [
+    {
+      "image": "assets/img/banner/home1.jpg"
+    },
+    {
+      "image": "assets/img/banner/home2.jpg"
+    },
+    {
+      "image": "assets/img/banner/home3.jpg"
+    },
+    {
+      "image": "assets/img/banner/home4.jpg"
+    },
+    {
+      "image": "assets/img/banner/home5.jpg"
+    },
+    {
+      "image": "assets/img/banner/home6.jpg"
+    }
+  ],
+  "menus": [
+    {
+      "id": 1,
+      "image": "assets/img/menu/Untitled-1.png",
+      "title": "สินค้า"
+    },
+    {
+      "id": 4,
+      "image": "assets/img/menu/csv.png",
+      "title": "CSR-CSV"
+    },
+    {
+      "id": 2,
+      "typeId":2,
+      "image": "assets/img/menu/maps.png",
+      "title": "ตำแหน่ง",
+      "t1":{
+        "latitude": 19.23281,
+        "longitude": 99.53781,
+        "name": "Iron"
+      },
+      "t2":{
+        "latitude": 15.42518,
+        "longitude": 100.02506,
+        "name": "Iron"
+      }
+    },
+    {
+      "id": 3,
+      "image": "assets/img/menu/social1.png",
+      "title": "เชื่อมโยงเครือข่าย"
+      
+    }
+  ]
+}
+
