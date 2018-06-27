@@ -21,6 +21,7 @@ export class FramDetailPage {
 	status:boolean;
 	key:string;
 	items: any;
+  datafire:any;
   selectedFiles: FileList;
   currentUpload: any;
 
@@ -31,6 +32,7 @@ export class FramDetailPage {
   	this.status = navParams.get('status');
   	this.key = navParams.get('key');
   	this.af.object(this.key).subscribe((data)=>{
+    this.datafire=this.af.list('https://app-project-d97a3.firebaseio.com/');
       this.items={
         image:data.image
       }
@@ -42,8 +44,8 @@ export class FramDetailPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad FramDetailPage');
   }
-  public notify() {
-  this.items.update(this.key, {status:this.status}); 
+  notify() {
+  this.datafire.update(this.key, {status:this.status}); 
   console.log("Toggled: "+ this.status); 
 }
 

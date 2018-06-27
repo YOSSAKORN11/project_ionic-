@@ -14,7 +14,7 @@
 // http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
 
 $text-color:        #000;
-$background-color:  #green;
+$background-color:  #FFF;
 $font-family-base: 'Kanit';
 $font-family-ios-base: $font-family-base;
 $font-family-md-base: $font-family-base;
@@ -40,9 +40,9 @@ $colors: (
         myFont: #ffffff,
         gold: #F0E68C,
         fa:#4a8bfc,
-        ysk :#cfd9df,
+        ysk :#34495e,
 );
-
+// background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 // App Theme
 // --------------------------------------------------
 // Ionic apps can have different themes applied, which can
