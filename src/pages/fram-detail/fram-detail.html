@@ -14,38 +14,48 @@
 
 
 <ion-content class="prodView">
-	<ion-slides class="prod-Slide" pager>
-        <ion-slide >
-            <img data-src="{{items.image}}" slide-lazy/>
-            <!-- <span class="price-tag"><a>${{price}}</a></span> -->
-        </ion-slide>
+  <ion-slides class="prod-Slide" pager>
+    <ion-slide>
+      <img data-src="{{items.image}}" slide-lazy/>
+      <!-- <span class="price-tag"><a>${{price}}</a></span> -->
+    </ion-slide>
 
-    </ion-slides>
+  </ion-slides>
 
 
-    <label>
-       <input type="file" style=" margin-left: 20px; margin-top: 20px; color: #DC143C; background: #FFFAF0"
-       (change)="detectFiles($event)">
-    </label>
+  <label>
+    <input type="file" style=" margin-left: 20px; margin-top: 20px; color: #DC143C; background: #FFFAF0" (change)="detectFiles($event)">
+  </label>
 
-    <button style="
+  <button style="
     width: 94px;
     height: 23px;
-"
-            [disabled]="!selectedFiles"
-            (click)="uploadSingle()">
-    
-      Upload Single
-    </button>
-    <div class="menu-button">
-    	<ion-item>
-      <ion-label>ค่าความชื้น : {{moisture}}</ion-label>
-    </ion-item> 
-    </div>
-    <div class="menu-button">
+" [disabled]="!selectedFiles" (click)="uploadSingle()">
+
+    Upload Single
+  </button>
+  <div class="menu-button">
+    <ion-item>
+      <ion-label>ค่าความชื้น : {{moisture1}}</ion-label>
+
+    </ion-item>
+
+  </div>
+  <div class="menu-button">
+
+    <ion-item>
+      <ion-label>ค่าความชื้น : {{moisture2}}</ion-label>
+    </ion-item>
+  </div>
+  <div class="menu-button">
+    <ion-item>
+      <ion-label>ค่าความชื้น : {{moisture3}}</ion-label>
+    </ion-item>
+  </div>
+  <div class="menu-button">
     <ion-item>
       <ion-label>รดน้ำ</ion-label>
       <ion-toggle color="secondary" checked="true" [(ngModel)]="status" (ionChange)="notify()"></ion-toggle>
     </ion-item>
-    </div>
+  </div>
 </ion-content>

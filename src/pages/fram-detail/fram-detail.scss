@@ -1,7 +1,7 @@
 page-fram-detail {
-
-	.prodView {
+  .prodView {
     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    padding-bottom: 5em;
     .prod-Slide {
       height: 50%;
       .slide-zoom {
@@ -41,16 +41,16 @@ page-fram-detail {
         }
       }
     }
-    .menu-button{
-    margin-top:1em;
-    background-color:#FFF; //ขอบ
-    width: 90%;
-    color: $text-color;
-    margin: 0 auto;
-    border-radius:0.5em;
-    margin-top:0.9em;
-    padding:0.8em;
-    box-shadow: 5px 5px grey;
+    .menu-button {
+      margin-top: 1em;
+      background-color: #FFF; //ขอบ
+      width: 90%;
+      color: $text-color;
+      margin: 0 auto;
+      border-radius: 0.5em;
+      margin-top: 0.9em;
+      padding: 0.8em;
+      box-shadow: 5px 5px grey;
+    }
   }
-   }
 }
